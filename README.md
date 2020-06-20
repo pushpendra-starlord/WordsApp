@@ -17,7 +17,7 @@ and passes the data to UI class (MainActivity).
 Clone the project in Android Studio or simply download the zip file.
 
 ## Screenshots
-![Main Activity](https://codelabs.developers.google.com/codelabs/android-training-livedata-viewmodel/img/f79b6d29612488b2.png) ![New Word Activity](https://codelabs.developers.google.com/codelabs/android-training-livedata-viewmodel/img/9f96622d49695bd5.png)
+![Main Activity](https://codelabs.developers.google.com/codelabs/android-training-livedata-viewmodel/img/f79b6d29612488b2.png)          ![New Word Activity](https://codelabs.developers.google.com/codelabs/android-training-livedata-viewmodel/img/9f96622d49695bd5.png)
 
 ## Download APK
 To test the app directly on your phone download and install app from below link.
