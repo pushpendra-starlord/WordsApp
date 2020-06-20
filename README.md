@@ -10,7 +10,7 @@ Queries are executed in the WordDao class. The word retrieval is done via an obs
 The app has a main Activity that displays the data. The Activity works with a ViewModel which fetches data from room database through repository class
 and passes the data to UI class (MainActivity).
 
-### Architecture
+## Architecture
 ![App Architecture](https://codelabs.developers.google.com/codelabs/android-training-livedata-viewmodel/img/1205d9f95688b35b.png)
 
 ## Installation
