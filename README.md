@@ -2,7 +2,6 @@
 This app demonstrate the usage of Room persistance library for storing data in locally in device.
 
 ## Implementation
-### Implementaion
 #### Data Layer
 The database is created using Room and has one entity: Word. Room generates the corresponding SQLite table at runtime.
 Queries are executed in the WordDao class. The word retrieval is done via an observable query implemented using a LiveData. 
