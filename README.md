@@ -1,5 +1,5 @@
 # WordsApp
-This app demonstrate the usage of Room persistance library for storing data in locally in device.
+This app demonstrate the usage of Room persistance library for storing data locally in device.
 
 ## Implementation
 ### Data Layer
